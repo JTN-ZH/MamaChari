@@ -1,0 +1,3 @@
+module MamaChari
+  VERSION = "0.0.1"
+end
